@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Swarup</h1>
-<h3 align="center">A frontend Web developer and Designer from Nepal</h3>
+<h3 align="center">A Frontend Web developer and Designer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=empswarup&label=Profile%20views&color=0e75b6&style=flat" alt="empswarup" /> </p>
