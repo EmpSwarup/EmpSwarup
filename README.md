@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/empswarup" target="blank"><img src="https://img.shields.io/twitter/follow/empswarup?logo=twitter&style=for-the-badge" alt="empswarup" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://swarupsapkota.com.np/](https://swarupsapkota.com.np/)
+- 👨‍💻 Visit my portfolio site at [https://swarupsapkota.com.np/](https://swarupsapkota.com.np/)
 
 - 📫 How to reach me **swarupsapkota@gmail.com**
 
