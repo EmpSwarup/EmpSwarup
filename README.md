@@ -24,13 +24,16 @@
 
 <br>
 
-<p align="center">
   ## My GitHub Stats :zap:
+<p align="center">
+
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmpSwarup&show_icons=true&hide_border=true" />
 </p>
 
+## My GitHub Top Languages <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+
 <p align="center">
-  ## My GitHub Top Languages <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
+  
 <img alt="My GitHub Top Languages " src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpSwarup" />
 </p>
 
