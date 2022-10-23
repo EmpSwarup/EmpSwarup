@@ -25,5 +25,5 @@
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmpSwarup&show_icons=true&hide_border=true" />
 
 <p>
-<img align="left" alt="My GitHub Top Languages :zap:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpSwarup" />
+<img align="right" alt="My GitHub Top Languages :zap:" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpSwarup" />
 </p>
