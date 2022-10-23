@@ -32,10 +32,5 @@
 
 ## My GitHub Top Languages <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" height="30px">
 
-<p >
-  
-<img alt="My GitHub Top Languages " src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpSwarup" />
-</p>
-
 
 
