@@ -27,5 +27,7 @@
 <img alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EmpSwarup&show_icons=true&hide_border=true" />
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EmpSwarup&show_icons=true&locale=en&layout=compact" alt="EmpSwarup" /></p>
+
 
 
