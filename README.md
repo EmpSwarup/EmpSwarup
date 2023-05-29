@@ -1,6 +1,10 @@
+![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on RoomFinder 2.0.<br>🤝 I’m looking for help with Design and Frontend.<br>🌱 I’m currently learning React JS.<br>💬 Ask me about anything.<br>⚡ Fun fact Australia is wider than the moon.
 
+---
+[![](https://visitcount.itsvg.in/api?id=EmpSwarup&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/swarupsapkota) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarup-sapkota-812031247) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/empswarup) 
@@ -15,8 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EmpSwarup&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=empswarup)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -24,10 +27,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EmpSwarup&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=EmpSwarup&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
