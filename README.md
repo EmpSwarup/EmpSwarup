@@ -1,4 +1,4 @@
-<img width="200" src="https://i.redd.it/bpxxqqvps4h91.gif" alt="MasterHead">
+<img height="400" src="https://i.redd.it/bpxxqqvps4h91.gif" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Swarup</h1>
 <h3 align="center">A Frontend Web developer and Designer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif">
