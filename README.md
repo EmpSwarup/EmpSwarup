@@ -38,13 +38,13 @@
 ## 🙌 My Socials:
 
 <div align="center">
- <a href="https://discord.com/channels/@me">
+ <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
- <a href="https://www.linkedin.com/in/swarupsapkota/">
+ <a href="https://www.linkedin.com/in/swarupsapkota/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- <a href="https://twitter.com/EmpSwarup">
+ <a href="https://twitter.com/EmpSwarup" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </div>
