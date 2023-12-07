@@ -13,6 +13,20 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=empswarup&unique={true|1|on|yes})
 
+## 🙌 My Socials:
+
+<div align="center">
+ <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+ <a href="https://www.linkedin.com/in/swarupsapkota/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+ <a href="https://twitter.com/EmpSwarup" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
+
 ## 💻 Tools and Technologies:
 
 <div align="center">
@@ -35,16 +49,4 @@
   </a>
 </div>
 
-## 🙌 My Socials:
 
-<div align="center">
- <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
- <a href="https://www.linkedin.com/in/swarupsapkota/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- <a href="https://twitter.com/EmpSwarup" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</div>
