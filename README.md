@@ -1,4 +1,7 @@
- <div align="center"> <img height="400" src="https://i.redd.it/bpxxqqvps4h91.gif" alt="MasterHead"> </div>
+<div align="center">
+  <img style="max-width:100%;" height="400" src="https://i.redd.it/bpxxqqvps4h91.gif" alt="MasterHead">
+</div>
+
 <h1 align="center">Hi 👋, I'm Swarup</h1>
 <h3 align="center">A Frontend Web developer and Designer from Nepal</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=empswarup&label=Profile%20views&color=0e75b6&style=flat" alt="empswarup" /> </p>
