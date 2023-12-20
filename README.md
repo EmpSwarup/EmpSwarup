@@ -20,9 +20,7 @@
 ## 🙌 My Socials:
 
 <div align="center">
- <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
+
  <a href="https://www.linkedin.com/in/swarupsapkota/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
