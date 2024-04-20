@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=git,mongodb,ps,vscode,vercel,&perline=5" />
   </a>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=empswarup&" alt="empswarup" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=empswarup&theme=dark&hide_border=false" alt="empswarup" /></p>
 </div>
 
 
