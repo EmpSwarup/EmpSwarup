@@ -1,6 +1,6 @@
 # Hi, I'm Swarup! 👋  
 
-I'm a **Frontend Developer** from Nepal. Currently, I'm honing my skills and contributing as a **Frontend Developer Intern** at [NAXA](https://naxa.com.np/).  
+I'm a **Frontend Developer** and **Computer Engineer** from Nepal. Currently, I'm honing my skills as a **Frontend Developer**.  
 
 ---
 
@@ -15,7 +15,7 @@ I'm a **Frontend Developer** from Nepal. Currently, I'm honing my skills and con
 ## 💼 **Experience**  
 
 - **Frontend Developer Intern** – [NAXA](https://naxa.com.np/)  
-   *December 2024 – Present*  
+   *December 2024 – March 2025*  
 
 - **Frontend Developer Intern** – [TekGro Nepal](https://tekgronepal.com.np/)  
    *September 2024 – December 2024*  
