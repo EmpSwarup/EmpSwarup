@@ -1,6 +1,6 @@
 # Hi, I'm Swarup! 👋  
 
-I'm a **Frontend Developer** and **Computer Engineer** from Nepal. Currently, I'm honing my skills as a **Frontend Developer**.  
+I'm a **Frontend Developer** and **Computer Engineer** from Nepal. Currently, I'm honing my skills as a **Frontend Engineer** at **Inductiv**.  
 
 ---
 
@@ -13,6 +13,9 @@ I'm a **Frontend Developer** and **Computer Engineer** from Nepal. Currently, I'
 ---
 
 ## 💼 **Experience**  
+
+- **Associate Frontend Engineer** – [Inductiv](https://inductiv.co/)  
+   *May 2025 – Present*  
 
 - **Frontend Developer Intern** – [NAXA](https://naxa.com.np/)  
    *December 2024 – March 2025*  
