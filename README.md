@@ -1,58 +1,12 @@
-# Hi, I'm Swarup! 👋  
+# Hi, I'm Swarup! 👋
 
-I'm a **Frontend Developer** and **Computer Engineer** from Nepal. Currently, I'm honing my skills as a **Frontend Engineer** at **Inductiv**.  
+A passionate **Frontend Developer** and **Computer Engineer** from Nepal with experience in building user-friendly digital solutions. I specialize in developing modern web applications using **React.js, TypeScript, JavaScript**, and **Tailwind CSS**. Currently working as a **Frontend Engineer at Inductiv**, I enjoy transforming complex challenges into seamless, intuitive user experiences.
 
----
+With a background in both **frontend and backend development** (Node.js, Express.js, Django) and **UI/UX design**, I bring a holistic approach to creating impactful solutions. As a former graphics designer, I blend creativity with code to deliver engaging digital experiences.
 
-## 🌱 **About Me**  
+I'm committed to continuous learning and staying current with evolving technologies. When I'm not coding, you'll find me exploring new frameworks, contributing to projects, and sharing knowledge with fellow developers.
 
-- 🎓 Bachelor’s Degree in Computer Engineering from [Nepal College of Information Technology](https://ncit.edu.np/)  
-- 💻 Experienced in frontend and backend development, with a flair for UI/UX design.  
-- 🎨 Former graphics designer, blending creativity and code to deliver impactful solutions.  
-
----
-
-## 💼 **Experience**  
-
-- **Associate Frontend Engineer** – [Inductiv](https://inductiv.co/)  
-   *May 2025 – Present*  
-
-- **Frontend Developer Intern** – [NAXA](https://naxa.com.np/)  
-   *December 2024 – March 2025*  
-
-- **Frontend Developer Intern** – [TekGro Nepal](https://tekgronepal.com.np/)  
-   *September 2024 – December 2024*  
-
-- **Graphics Designer** – [Dealayo](https://dealayo.com/)  
-   *November 2022 – December 2022*  
-
----
-
-## 🛠️ **Skills**  
-
-### **Frontend Development**  
-- Languages & Frameworks: **JavaScript, TypeScript, React.js**  
-- Styling: **Tailwind CSS, Material-UI**  
-
-### **Backend Development**  
-- Frameworks: **Node.js, Express.js, Django**  
-
-### **Design Tools**  
-- **Adobe Photoshop, Figma**  
-
----
-
-## 📜 **Certificates**  
-
-- **[Meta Frontend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/AGRUHKNCAGC2)**  
-- **[Meta Backend Developer Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DD9KRZRAZ28C)**  
-- **[UI/UX Design Specialization by CalArts](https://www.coursera.org/account/accomplishments/specialization/YB4Q76ZUDRYC)**  
-- **[AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/24QQ96CQMSVJ)**  
-
----
-
-## 🌐 **Find Me Online**  
-
-- **Email:** [swarupsapkota@gmail.com](mailto:swarupsapkota@gmail.com)  
-- **Portfolio:** [swarupsapkota.com.np](https://www.swarupsapkota.com.np/)  
-- **LinkedIn:** [Swarup Sapkota](https://www.linkedin.com/in/swarupsapkota/)  
+**Let's connect:**
+- 📧 [swarupsapkota@gmail.com](mailto:swarupsapkota@gmail.com)
+- 🌐 [swarupsapkota.com.np](https://www.swarupsapkota.com.np/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swarupsapkota/)
